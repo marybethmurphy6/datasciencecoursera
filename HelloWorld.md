@@ -21,20 +21,20 @@ This is video #8 in the Data School series, "Introduction to Git and GitHub." Re
 
 #####== LINKS RELATED TO THIS VIDEO ==
 
-Git quick reference for beginners: http://www.dataschool.io/git-quick-reference-for-beginners/
-Tracking, staging, and committing: http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository
-Markdown Live Editor: http://jrmoran.com/playground/markdown-live-editor/
-Mastering Markdown: https://guides.github.com/features/mastering-markdown/
+* Git quick reference for beginners: http://www.dataschool.io/git-quick-reference-for-beginners/
+* Tracking, staging, and committing: http://git-scm.com/book/en/Git-Basics-Recording-Changes-to-the-Repository
+* Markdown Live Editor: http://jrmoran.com/playground/markdown-live-editor/
+* Mastering Markdown: https://guides.github.com/features/mastering-markdown/
 
 #####== COMMAND LIST ==
 
-create a file: touch [filename]
-check the status: git status
-track and stage a single file: git add [filename]
-track and stage all files: git add .
-commit with a message: git commit -m "description of commit"
-view the log: git log
-push changes: git push [remotename] [branchname]
+* create a file: touch [filename]
+* check the status: git status
+* track and stage a single file: git add [filename]
+* track and stage all files: git add .
+* commit with a message: git commit -m "description of commit"
+* view the log: git log
+* push changes: git push [remotename] [branchname]
 
 #####== TRANSCRIPT ==
 
